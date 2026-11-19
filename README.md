@@ -193,3 +193,5 @@ grupo, não garantias de desempenho em outras máquinas. Para uma análise
 mais robusta, recomenda-se executar cada configuração várias vezes e
 comparar a média.
 
+https://github.com/paulom55502/KMeans_IESB/releases/download/v1%2C0/Gravacao.de.Tela.2026-11-18.234704.mp4
+
