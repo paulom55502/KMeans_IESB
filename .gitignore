@@ -1,0 +1,4 @@
+sequencial/kmeans
+openmp/kmeans_openmp
+mpi/kmeans_mpi
+*.o
